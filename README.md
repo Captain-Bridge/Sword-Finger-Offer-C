@@ -3,7 +3,11 @@
 刷题网站：牛客网（刷题功能卖40，还送我本实体书，我真谢谢你了）
 
 ## 链表
-2025年8月17日
-[jz6 从尾到头打印链表](http://baixiao.club/2025/08/16/%E4%BB%8E%E5%A4%B4%E5%88%B0%E5%B0%BE%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8/#more)
-[jz24 反转链表](http://baixiao.club/2025/08/16/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/#more)
-[jz25 合并两个排序的列表](http://baixiao.club/2025/08/16/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E5%88%97%E8%A1%A8/#more)
+**2025年8月17日**
+
+[jz6 从尾到头打印链表](http://baixiao.club/2025/08/16/%E4%BB%8E%E5%A4%B4%E5%88%B0%E5%B0%BE%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8/)
+
+[jz24 反转链表](http://baixiao.club/2025/08/16/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/)
+
+[jz25 合并两个排序的列表](http://baixiao.club/2025/08/16/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E5%88%97%E8%A1%A8/)
+
