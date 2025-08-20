@@ -40,3 +40,14 @@
 | JZ55 | <front color=Green>简单<front>  | [二叉树的深度](./JZ55_二叉树的深度.md)                     |
 | JZ77 | <front color=Yellow>中等<front> | [按之字形顺序打印二叉树](./JZ77_按之字形顺序打印二叉树.md) |
 | JZ54 | <front color=Yellow>中等<front> | [二叉搜索树的第k个节点](./JZ54_二叉搜索树的第k个节点.md)   |
+
+**2025年8月20日**
+
+| 题号 | 难度                            | 题解                                                         |
+| ---- | ------------------------------- | ------------------------------------------------------------ |
+| JZ7  | <front color=Yellow>中等<front> | [重建二叉树](./JZ7_重建二叉树.md)                            |
+| JZ26 | <front color=Yellow>中等<front> | [树的子结构](./JZ26_树的子结构.md)                           |
+| JZ27 | <front color=Green>简单<front>  | [二叉树的镜像](./JZ27_二叉树的镜像.md)                       |
+| JZ32 | <front color=Green>简单<front>  | [从上往下打印二叉树](./JZ32_从上往下打印二叉树)              |
+| JZ33 | <front color=Yellow>中等<front> | [二叉搜索树的后序遍历序列](./JZ33_二叉搜索树的后序遍历序列.md) |
+| JZ82 | <front color=Green>简单<front>  | [二叉树中和为某一值的路径（一）](./JZ82_二叉树中和为某一值的路径（一）.md) |
