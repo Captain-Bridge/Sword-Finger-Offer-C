@@ -36,4 +36,6 @@
 | JZ8  | <front color=yellow>中等<front> | [二叉树的下一个结点](./JZ8_二叉树的下一个结点.md)            |
 | JZ28 | <front color=Green>简单<front>  | [对称的二叉树](./对称的二叉树.md)                            |
 | JZ78 | <front color=Yellow>中等<front> | [把二叉树打印成多行](./JZ78_把二叉树打印成多行.md)           |
+| JZ37 | <front color=Red>较难<front>    | [序列化二叉树](./JZ37_序列化二叉树.md)                       |
+| JZ84 | <front color=Yellow>中等<front> | [二叉树中和为某一值的路径（三）](./JZ84_二叉树中和为某一值的路径（三）.) |
 
