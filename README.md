@@ -19,11 +19,11 @@
 
 ## 树
 
-| 题号 | 难度                            | 题解                                                       |
-| ---- | ------------------------------- | ---------------------------------------------------------- |
-| JZ55 | <front color=Green>简单<front>  | [二叉树的深度](./JZ55_二叉树的深度.md)                     |
-| JZ77 | <front color=Yellow>中等<front> | [按之字形顺序打印二叉树](./JZ77_按之字形顺序打印二叉树.md) |
-| JZ54 | <front color=Yellow>中等<front> | [二叉搜索树的第k个节点](./JZ54_二叉搜索树的第k个节点.md)   |
+| 题号 | 难度                            | 题解                                                         |
+| ---- | ------------------------------- | ------------------------------------------------------------ |
+| JZ55 | <front color=Green>简单<front>  | [二叉树的深度](./JZ55_二叉树的深度.md)                       |
+| JZ77 | <front color=Yellow>中等<front> | [按之字形顺序打印二叉树](./JZ77_按之字形顺序打印二叉树.md)   |
+| JZ54 | <front color=Yellow>中等<front> | [二叉搜索树的第k个节点](./JZ54_二叉搜索树的第k个节点.md)     |
 | JZ7  | <front color=Yellow>中等<front> | [重建二叉树](./JZ7_重建二叉树.md)                            |
 | JZ26 | <front color=Yellow>中等<front> | [树的子结构](./JZ26_树的子结构.md)                           |
 | JZ27 | <front color=Green>简单<front>  | [二叉树的镜像](./JZ27_二叉树的镜像.md)                       |
@@ -35,4 +35,5 @@
 | JZ79 | <front color=Green>简单<front>  | [判断是不是平衡二叉树](./JZ79_判断是不是平衡二叉树.md)       |
 | JZ8  | <front color=yellow>中等<front> | [二叉树的下一个结点](./JZ8_二叉树的下一个结点.md)            |
 | JZ28 | <front color=Green>简单<front>  | [对称的二叉树](./对称的二叉树.md)                            |
+| JZ78 | <front color=Yellow>中等<front> | [把二叉树打印成多行](./JZ78_把二叉树打印成多行.md)           |
 
