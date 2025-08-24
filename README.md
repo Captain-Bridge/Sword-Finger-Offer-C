@@ -12,30 +12,30 @@
 | JZ25 | <front color=Green>简单<front> | [合并两个排序的列表](http://baixiao.club/2025/08/16/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E5%88%97%E8%A1%A8/) |
 | JZ23 | <front color=Yellow>中等<front> | [链表中环的入口结点](https://baixiao.club/2025/08/17/JZ23%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E7%BB%93%E7%82%B9/) |
 | JZ52 | <front color=Green>简单<front>  | [JZ52两个链表的第一个公共节点](https://baixiao.club/2025/08/17/JZ52%E4%B8%A4%E4%B8%AA%E9%93%BE%E8%A1%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%85%AC%E5%85%B1%E8%8A%82%E7%82%B9/) |
-| JZ22 | <front color=Green>简单<front> | [链表中倒数最后k个结点](./JZ22_链表中倒数最后k个结点.md) |
-| JZ35 | <front color=Green>较难<front> | [复杂链表的复制](./JZ35_复杂链表的复制.md)               |
-| JZ76 | <front color=Green>中等<front> | [删除链表中重复的节点](./JZ76_删除链表中重复的结点.md)   |
-| JZ18 | <front color=Green>简单<front> | [删除链表的节点](./JZ18_删除链表的节点.md) |
+| JZ22 | <front color=Green>简单<front> | [链表中倒数最后k个结点](https://baixiao.club/2025/08/16/JZ22_%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E6%9C%80%E5%90%8Ek%E4%B8%AA%E7%BB%93%E7%82%B9/) |
+| JZ35 | <front color=Green>较难<front> | [复杂链表的复制](https://baixiao.club/2025/08/16/JZ35_%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6/)               |
+| JZ76 | <front color=Green>中等<front> | [删除链表中重复的节点](https://baixiao.club/2025/08/16/JZ76_%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E7%BB%93%E7%82%B9/)   |
+| JZ18 | <front color=Green>简单<front> | [删除链表的节点](https://baixiao.club/2025/08/16/JZ18_%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E8%8A%82%E7%82%B9/) |
 
 ## 树
 
 | 题号 | 难度                            | 题解                                                         |
 | ---- | ------------------------------- | ------------------------------------------------------------ |
-| JZ55 | <front color=Green>简单<front>  | [二叉树的深度](./JZ55_二叉树的深度.md)                       |
-| JZ77 | <front color=Yellow>中等<front> | [按之字形顺序打印二叉树](./JZ77_按之字形顺序打印二叉树.md)   |
-| JZ54 | <front color=Yellow>中等<front> | [二叉搜索树的第k个节点](./JZ54_二叉搜索树的第k个节点.md)     |
-| JZ7  | <front color=Yellow>中等<front> | [重建二叉树](./JZ7_重建二叉树.md)                            |
-| JZ26 | <front color=Yellow>中等<front> | [树的子结构](./JZ26_树的子结构.md)                           |
-| JZ27 | <front color=Green>简单<front>  | [二叉树的镜像](./JZ27_二叉树的镜像.md)                       |
-| JZ32 | <front color=Green>简单<front>  | [从上往下打印二叉树](./JZ32_从上往下打印二叉树)              |
-| JZ33 | <front color=Yellow>中等<front> | [二叉搜索树的后序遍历序列](./JZ33_二叉搜索树的后序遍历序列.md) |
-| JZ82 | <front color=Green>简单<front>  | [二叉树中和为某一值的路径（一）](./JZ82_二叉树中和为某一值的路径（一）.md) |
-| JZ34 | <front color=Yellow>中等<front> | [二叉树中和为某一值的路径（二）](./JZ34_二叉树中和为某一值的路径（二）.md) |
-| JZ36 | <front color=yellow>中等<front> | [二叉搜索树与双向链表](./JZ36_二叉搜索树与双向链表.md)       |
-| JZ79 | <front color=Green>简单<front>  | [判断是不是平衡二叉树](./JZ79_判断是不是平衡二叉树.md)       |
-| JZ8  | <front color=yellow>中等<front> | [二叉树的下一个结点](./JZ8_二叉树的下一个结点.md)            |
-| JZ28 | <front color=Green>简单<front>  | [对称的二叉树](./对称的二叉树.md)                            |
-| JZ78 | <front color=Yellow>中等<front> | [把二叉树打印成多行](./JZ78_把二叉树打印成多行.md)           |
-| JZ37 | <front color=Red>较难<front>    | [序列化二叉树](./JZ37_序列化二叉树.md)                       |
-| JZ84 | <front color=Yellow>中等<front> | [二叉树中和为某一值的路径（三）](./JZ84_二叉树中和为某一值的路径（三）.) |
+| JZ55 | <front color=Green>简单<front>  | [二叉树的深度](https://baixiao.club/2025/08/16/JZ55_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6/)                       |
+| JZ77 | <front color=Yellow>中等<front> | [按之字形顺序打印二叉树](https://baixiao.club/2025/08/16/JZ77_%E6%8C%89%E4%B9%8B%E5%AD%97%E5%BD%A2%E9%A1%BA%E5%BA%8F%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91/)   |
+| JZ54 | <front color=Yellow>中等<front> | [二叉搜索树的第k个节点](https://baixiao.club/2025/08/16/JZ54_%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9/)     |
+| JZ7  | <front color=Yellow>中等<front> | [重建二叉树](https://baixiao.club/2025/08/16/JZ7_%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91/)                            |
+| JZ26 | <front color=Yellow>中等<front> | [树的子结构](https://baixiao.club/2025/08/16/JZ26_%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84/)                           |
+| JZ27 | <front color=Green>简单<front>  | [二叉树的镜像](https://baixiao.club/2025/08/16/JZ27_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F/)                       |
+| JZ32 | <front color=Green>简单<front>  | [从上往下打印二叉树](https://baixiao.club/2025/08/16/JZ32_%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91/)              |
+| JZ33 | <front color=Yellow>中等<front> | [二叉搜索树的后序遍历序列](https://baixiao.club/2025/08/16/JZ33_%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97/) |
+| JZ82 | <front color=Green>简单<front>  | [二叉树中和为某一值的路径（一）](https://baixiao.club/2025/08/16/JZ82_%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84%EF%BC%88%E4%B8%80%EF%BC%89/) |
+| JZ34 | <front color=Yellow>中等<front> | [二叉树中和为某一值的路径（二）](https://baixiao.club/2025/08/16/JZ34_%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84%EF%BC%88%E4%BA%8C%EF%BC%89/) |
+| JZ36 | <front color=yellow>中等<front> | [二叉搜索树与双向链表](https://baixiao.club/2025/08/16/JZ36_%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8/)       |
+| JZ79 | <front color=Green>简单<front>  | [判断是不是平衡二叉树](https://baixiao.club/2025/08/16/JZ79_%E5%88%A4%E6%96%AD%E6%98%AF%E4%B8%8D%E6%98%AF%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91/)       |
+| JZ8  | <front color=yellow>中等<front> | [二叉树的下一个结点](https://baixiao.club/2025/08/16/JZ8_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%BB%93%E7%82%B9/)            |
+| JZ28 | <front color=Green>简单<front>  | [对称的二叉树](https://baixiao.club/2025/08/16/JZ28_%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91/)                            |
+| JZ78 | <front color=Yellow>中等<front> | [把二叉树打印成多行](https://baixiao.club/2025/08/16/JZ78_%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%93%E5%8D%B0%E6%88%90%E5%A4%9A%E8%A1%8C/)           |
+| JZ37 | <front color=Red>较难<front>    | [序列化二叉树](https://baixiao.club/2025/08/16/JZ37_%E5%BA%8F%E5%88%97%E5%8C%96%E4%BA%8C%E5%8F%89%E6%A0%91/)                       |
+| JZ84 | <front color=Yellow>中等<front> | [二叉树中和为某一值的路径（三）](https://baixiao.club/2025/08/16/JZ84_%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84%EF%BC%88%E4%B8%89%EF%BC%89/) |
 
