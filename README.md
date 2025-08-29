@@ -4,7 +4,9 @@
 
 同步更新于[个人博客](https://baixiao.club/2025/08/24/JZ-offer/)
 
-## 链表
+## 数据结构
+
+### 链表
 
 
 | 题号 | 难度                                    | 题解                                                         |
@@ -19,7 +21,7 @@
 | JZ76 | <span style="color:orange;">中等</span> | [删除链表中重复的节点](https://baixiao.club/2025/08/16/JZ76_删除链表中重复的节点/) |
 | JZ18 | <span style="color:green;">简单</span>  | [删除链表的节点](https://baixiao.club/2025/08/16/JZ18_删除链表的节点/) |
 
-## 树
+### 树
 
 | 题号 | 难度                                    | 题解                                                         |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
@@ -43,11 +45,30 @@
 | JZ86 |  <span style="color:orange;">中等</span>| [在二叉树中找到两个节点的最近公共祖先](https://baixiao.club/2025/08/28/JZ86_在二叉树中找到两个节点的最近公共祖先/) |
 | JZ68 | <span style="color:green;">简单</span> | [二叉搜索树的最近公共祖先](https://baixiao.club/2025/08/28/JZ68_二叉搜索树的最近公共祖先/) |
 
-## 队列&栈
+### 队列&栈
 
 | 题号 | 难度                                   | 题解                                                         |
 | ---- | -------------------------------------- | ------------------------------------------------------------ |
 | JZ9  | <span style="color:green;">简单</span> | [用两个栈实现队列](https://baixiao.club/2025/08/28/JZ9_用两个栈实现队列/) |
 | JZ30 | <span style="color:Green">简单</span>  | [包含min函数的栈](https://baixiao.club/2025/08/28/JZ30_包含min函数的栈/) |
-| JZ31 | <span style="color:orange">中等</span> | [栈的压入、弹出序列（TODO）](https://baixiao.club/2025/08/28/JZ31_栈的压入、弹出序列/) |
+| JZ31 | <span style="color:orange">中等</span> | [栈的压入、弹出序列](https://baixiao.club/2025/08/28/JZ31_栈的压入、弹出序列/) |
+| JZ73 | <span style="color:Green">简单</span>  | [反转单词序列](https://baixiao.club/2025/08/29/JZ73_反转单词序列/)    |
+| JZ59 | <span style="color:red">较难</span>    | [滑动窗口的最大值](https://baixiao.club/2025/08/29/JZ59_滑动窗口的最大值/) |
 
+## 算法
+
+### 搜索算法
+
+| 题号 | 难度                                   | 题解                                                         |
+| ---- | -------------------------------------- | ------------------------------------------------------------ |
+| JZ53 | <span style="color:green">简单</span>  | [数字在升序数组中出现的次数](https://baixiao.club/2025/08/29/JZ53_数字在升序数组中出现的次数/) |
+| JZ4  | <span style="color:orange">中等</span> | [二维数组中的查找](https://baixiao.club/2025/08/29/JZ4_二维数组中的查找/) |
+| JZ11 | <span style="color:green">简单</span>  | [旋转数组的最小数字](https://baixiao.club/2025/08/29/JZ11_旋转数组的最小数字/) |
+| JZ38 | <span style="color:orange">中等</span> | [字符串的排列](https://baixiao.club/2025/08/29/JZ38_字符串的排列/)    |
+| JZ44 | <span style="color:green">简单</span>  | [数字序列中某一位的数字](https://baixiao.club/2025/08/29/JZ44_数字序列中某一位的数字/) |
+
+### 动态规划
+
+| 题号 | 难度                                  | 题解                                                         |
+| ---- | ------------------------------------- | ------------------------------------------------------------ |
+| JZ42 | <span style="color:green">简单</span> | [连续子数组的最大和(TODO)](https://baixiao.club/2025/08/29/JZ42_连续子数组的最大和/) |
