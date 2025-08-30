@@ -71,4 +71,8 @@
 
 | 题号 | 难度                                  | 题解                                                         |
 | ---- | ------------------------------------- | ------------------------------------------------------------ |
-| JZ42 | <span style="color:green">简单</span> | [连续子数组的最大和(TODO)](https://baixiao.club/2025/08/29/JZ42_连续子数组的最大和/) |
+| JZ42 | <span style="color:green">简单</span> | [连续子数组的最大和](https://baixiao.club/2025/08/30/JZ42_连续子数组的最大和/) |
+| JZ85 | <span style="color:orange">中等</span> | [连续子数组的最大和（二）](https://baixiao.club/2025/08/30/JZ85_连续子数组的最大和（二）/) |
+| JZ69 | <span style="color:green">简单</span> | [跳台阶](https://baixiao.club/2025/08/30/JZ69_跳台阶/) |
+| JZ10 | <span style="color:black">入门</span> | [斐波那契数列](https://baixiao.club/2025/08/30/JZ10_斐波那契数列/) |
+| JZ19 | <span style="color:red">较难</span> | [正则表达式匹配](https://baixiao.club/2025/08/30/JZ19_正则表达式匹配/) |
