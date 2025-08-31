@@ -76,3 +76,9 @@
 | JZ69 | <span style="color:green">简单</span> | [跳台阶](https://baixiao.club/2025/08/30/JZ69_跳台阶/) |
 | JZ10 | <span style="color:black">入门</span> | [斐波那契数列](https://baixiao.club/2025/08/30/JZ10_斐波那契数列/) |
 | JZ19 | <span style="color:red">较难</span> | [正则表达式匹配](https://baixiao.club/2025/08/30/JZ19_正则表达式匹配/) |
+| JZ71 |<span style="color:green">简单</span>  | [跳台阶扩展问题](https://baixiao.club/2025/08/31/JZ71_跳台阶扩展问题/) |
+| JZ70 |<span style="color:orange">中等</span>  | [矩形覆盖](https://baixiao.club/2025/08/31/JZ70_矩形覆盖/) |
+| JZ63 |<span style="color:green">简单</span>  | [买卖股票的最好时机（一）](https://baixiao.club/2025/08/31/JZ63_买卖股票的最好时机（一）/) |
+| JZ47 |<span style="color:orange">中等</span>  | [礼物的最大价值](https://baixiao.club/2025/08/31/JZ47_礼物的最大价值/) |
+| JZ48 |<span style="color:orange">中等</span>  | [最长不含重复字符的子字符串](https://baixiao.club/2025/08/31/JZ48_最长不含重复字符的子字符串/) |
+| JZ46 |<span style="color:orange">中等</span> | [把数字翻译成字符串](https://baixiao.club/2025/09/01/JZ46_把数字翻译成字符串/) |
