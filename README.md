@@ -82,3 +82,18 @@
 | JZ47 |<span style="color:orange">中等</span>  | [礼物的最大价值](https://baixiao.club/2025/08/31/JZ47_礼物的最大价值/) |
 | JZ48 |<span style="color:orange">中等</span>  | [最长不含重复字符的子字符串](https://baixiao.club/2025/08/31/JZ48_最长不含重复字符的子字符串/) |
 | JZ46 |<span style="color:orange">中等</span> | [把数字翻译成字符串](https://baixiao.club/2025/09/01/JZ46_把数字翻译成字符串/) |
+
+回溯
+
+| 题号 | 难度                                   | 题解                                                         |
+| ---- | -------------------------------------- | ------------------------------------------------------------ |
+| JZ12 | <span style="color:orange">中等</span> | [矩阵中的路径](https://baixiao.club/2025/09/01/JZ12_矩阵中的路径/)    |
+| JZ13 | <span style="color:red">较难</span>    | [机器人的运动范围](https://baixiao.club/2025/09/01/JZ13_机器人的运动范围/) |
+
+排序
+
+| 题号 | 难度                                   | 题解                                                         |
+| ---- | -------------------------------------- | ------------------------------------------------------------ |
+| JZ3  | <span style="color:green">简单</span>  | [数组中重复的数字](https://baixiao.club/2025/09/01/JZ3_数组中重复的数字/) |
+| JZ51 | <span style="color:orange">中等</span> | [数组中的逆序数](https://baixiao.club/2025/09/01/JZ51_数组中的逆序数/) |
+| JZ40 | <span style="color:orange">中等</span> | [最小的K个数](https://baixiao.club/2025/09/01/JZ40_最小的k个数/)      |
