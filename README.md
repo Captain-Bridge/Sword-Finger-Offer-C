@@ -96,4 +96,38 @@
 | ---- | -------------------------------------- | ------------------------------------------------------------ |
 | JZ3  | <span style="color:green">简单</span>  | [数组中重复的数字](https://baixiao.club/2025/09/01/JZ3_数组中重复的数字/) |
 | JZ51 | <span style="color:orange">中等</span> | [数组中的逆序数](https://baixiao.club/2025/09/01/JZ51_数组中的逆序数/) |
-| JZ40 | <span style="color:orange">中等</span> | [最小的K个数](https://baixiao.club/2025/09/01/JZ40_最小的k个数/)      |
+| JZ40 | <span style="color:orange">中等</span> | [最小的K个数](https://baixiao.club/2025/09/01/JZ40_最小的k个数/) |
+| JZ41 | <span style="color:orange">中等</span> | [数据流中的中位数](https://baixiao.club/2025/11/06/JZ41_数据流中的中位数/)                                         |
+
+位运算
+
+**自此开始实现变为python实现**
+
+| 题号 | 难度                                   | 题解                           |
+| ---- | -------------------------------------- | ------------------------------ |
+| JZ65 | <span style="color:green">简单</span>  | [不用加减乘除做加法](https://baixiao.club/2025/11/06/JZ65_不用加减乘除做加法/)         |
+| JZ15 | <span style="color:green">简单</span>  | [二进制中1的个数](https://baixiao.club/2025/11/06/JZ15-二进制中1的个数/)            |
+| JZ16 | <span style="color:orange">中等</span> | [数值的整数次方](https://baixiao.club/2025/11/06/JZ16-数值的整数次方/)             |
+| JZ56 | <span style="color:orange">中等</span> | [数组中只出现一次的两个数字](https://baixiao.club/2025/11/06/JZ56-数组中只出现一次的两个数字/) |
+| JZ64 | <span style="color:orange">中等</span> | [求1+2+3+...+n](https://baixiao.club/2025/11/06/JZ64-求1-2-3-n/)              |
+
+模拟
+
+| 题号 | 难度                                   | 题解                         |
+| ---- | -------------------------------------- | ---------------------------- |
+| JZ29 | <span style="color:green">简单</span>  | [顺时针打印矩阵](https://baixiao.club/2025/11/06/JZ29-顺时针打印矩阵/)           |
+| JZ61 | <span style="color:green">简单</span>  | [扑克牌顺子](https://baixiao.club/2025/11/06/JZ61-扑克牌顺子/)               |
+| JZ67 | <span style="color:orange">中等</span> | [把字符串转换成整数(atoi)](https://baixiao.club/2025/11/06/JZ67-把字符串转换成整数-atoi/) |
+| JZ20 | <span style="color:red">较难</span>    | [表示数值的字符串](https://baixiao.club/2025/11/06/JZ20-表示数值的字符串/)         |
+
+其它算法
+
+| 题号 | 难度                                   | 题解                                   |
+| ---- | -------------------------------------- | -------------------------------------- |
+| JZ66 | <span style="color:green">简单</span>  | [构建乘积数组](https://baixiao.club/2025/11/06/JZ66-构建乘积数组/)                       |
+| JZ50 | <span style="color:green">简单</span>  | [第一个只出现一次的字符](https://baixiao.club/2025/11/06/JZ50-第一个只出现一次的字符/)             |
+| JZ5  | <span style="color:green">简单</span>  | [替换空格](https://baixiao.club/2025/11/06/JZ5-替换空格/)                           |
+| JZ21 | <span style="color:orange">中等</span> | [调整数组顺序使奇数位于偶数前面(一)](https://baixiao.club/2025/11/06/JZ21-调整数组顺序使奇数位于偶数前面（一）/) |
+| JZ39 | <span style="color:green">简单</span>  | [数组中出现次数超过一半的数字](https://baixiao.club/2025/11/06/JZ39-数组中出现次数超过一半的数字/)       |
+| JZ43 | <span style="color:orange">中等</span> | [从1到n整数中1出现的次数](https://baixiao.club/2025/11/06/JZ43-从1到n整数中1出现的次数/)            |
+
