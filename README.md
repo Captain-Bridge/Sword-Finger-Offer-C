@@ -130,4 +130,6 @@
 | JZ21 | <span style="color:orange">中等</span> | [调整数组顺序使奇数位于偶数前面(一)](https://baixiao.club/2025/11/06/JZ21-调整数组顺序使奇数位于偶数前面（一）/) |
 | JZ39 | <span style="color:green">简单</span>  | [数组中出现次数超过一半的数字](https://baixiao.club/2025/11/06/JZ39-数组中出现次数超过一半的数字/)       |
 | JZ43 | <span style="color:orange">中等</span> | [从1到n整数中1出现的次数](https://baixiao.club/2025/11/06/JZ43-从1到n整数中1出现的次数/)            |
+| JZ45 | <span style="color:orange">中等</span> | [把数组排成最小的数](https://baixiao.club/2025/11/24/JZ45-把数组排成最小的数/)            |
+| JZ49 | <span style="color:orange">中等</span> | [丑数](https://baixiao.club/2025/11/24/JZ49-丑数/)            |
 
